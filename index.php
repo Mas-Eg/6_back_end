@@ -329,7 +329,7 @@ if (isset($_COOKIE['generated_credentials'])) {
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>5_back_end</title>
+    <title>6_back_end</title>
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
